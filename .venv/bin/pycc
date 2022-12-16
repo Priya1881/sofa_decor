@@ -1,0 +1,3 @@
+#!/Users/sugunapriya/python_projects/sofa_decor/.venv/bin/python3
+from numba.pycc import main
+main()
